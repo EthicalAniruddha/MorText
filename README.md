@@ -1,4 +1,4 @@
-# mortext
+# MorText
 
 A new Flutter project.
 
