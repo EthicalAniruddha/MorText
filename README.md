@@ -1,6 +1,6 @@
 # MorText
 
-A new Flutter project.
+A flutter project which will convert your desired text to morse code and output it in form of torchlight.
 
 ## Getting Started
 
